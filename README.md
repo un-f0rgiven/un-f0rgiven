@@ -21,9 +21,9 @@ During the training I studied:
 - HTTP
 
 I implemented several educational projects:
-[Brain Games](https://github.com/un-f0rgiven/python-project-49)
-[Gendiff](https://github.com/un-f0rgiven/python-project-50)
-[Page Analyzer](https://github.com/un-f0rgiven/python-project-83)
-[Task Manager](https://github.com/un-f0rgiven/python-project-52)
+[Brain Games](https://github.com/un-f0rgiven/python-project-49)  
+[Gendiff](https://github.com/un-f0rgiven/python-project-50)  
+[Page Analyzer](https://github.com/un-f0rgiven/python-project-83)  
+[Task Manager](https://github.com/un-f0rgiven/python-project-52)  
 
 [My resume on Hexlet CV](https://cv.hexlet.io/ru/resumes/11448)
