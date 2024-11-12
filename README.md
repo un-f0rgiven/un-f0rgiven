@@ -1,5 +1,7 @@
 ### Hi! My name is Alexander Naymushin.
 
+[My resume on Hexlet CV](https://cv.hexlet.io/ru/resumes/11448)  
+
 I live in Vladivostok.
 
 In 2007, I graduated from the University with a degree in manager of state and municipal administration.  
@@ -26,5 +28,3 @@ I strive to be useful to society by applying my knowledge and skills, and I am r
 [Gendiff](https://github.com/un-f0rgiven/python-project-50)  
 [Page Analyzer](https://github.com/un-f0rgiven/python-project-83)  
 [Task Manager](https://github.com/un-f0rgiven/python-project-52)  
-
-[My resume on Hexlet CV](https://cv.hexlet.io/ru/resumes/11448)
