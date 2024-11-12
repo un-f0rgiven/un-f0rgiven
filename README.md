@@ -20,7 +20,7 @@ During the training I studied:
 - Logging
 - HTTP
 
-I implemented several educational projects:
+I implemented several educational projects:  
 [Brain Games](https://github.com/un-f0rgiven/python-project-49)  
 [Gendiff](https://github.com/un-f0rgiven/python-project-50)  
 [Page Analyzer](https://github.com/un-f0rgiven/python-project-83)  
