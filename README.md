@@ -8,7 +8,7 @@ From 2017 to 2023 I worked for the company [DNS](https://www.dns-shop.ru/about )
 During my work, I realized that analytics, process automation and work optimization are of the greatest interest to me. This prompted me to move into the field of programming.  
 Having studied the market of educational platforms, I chose [Hexlet](https://ru.hexlet.io ), where I took a course in the Python developer program.
 
-During the training I studied:
+#### My skills:
 - Python
 - Linux
 - Git
@@ -20,7 +20,7 @@ During the training I studied:
 - Logging
 - HTTP
 
-I implemented several educational projects:  
+#### My projects:  
 [Brain Games](https://github.com/un-f0rgiven/python-project-49)  
 [Gendiff](https://github.com/un-f0rgiven/python-project-50)  
 [Page Analyzer](https://github.com/un-f0rgiven/python-project-83)  
